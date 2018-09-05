@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Mini-Calc</groupId>
+  <artifactId>com.mini.calc</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>ant</groupId>
+  		<artifactId>ant-junit</artifactId>
+  		<version>1.6.5</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>com.levigo</groupId>
+  		<artifactId>gwt-awt</artifactId>
+  		<version>1.0.1</version>
+  	</dependency>
+  </dependencies>
+</project>
